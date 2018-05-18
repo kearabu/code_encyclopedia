@@ -1,0 +1,25 @@
+# Code Encyclopedia
+This is my reference sheet for work.
+
+GIS: PSQL, Postgis, and Arcmap
+===============================
+Notes, commands, instructions, and tips to solve GIS problems.
+
+## TOC
+- [PSQL & Postgis](#psql)
+  - [Queries](#queries)
+- [Viewing data in Arcmap](#arcmap)
+  - [Projections](#projections)
+
+
+## PSQL
+
+### Queries
+
+## Arcmap
+At work, we utilize GIS tools to visualize and map small, irregular space bodies. Since GIS tools are currently based on the Earth with some application to major planets all of which are spherical, we have had to be creative with our solutions.
+
+### Projections
+Simple-cylindrical
+Equirectangular
+Sinusoidal 
